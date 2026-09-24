@@ -1,0 +1,6 @@
+{
+  "name": "AI Interior Design Consultant",
+  "description": "Interactive room makeover app with instant AI reimagined styles, before/after compare slider, context-aware design chat, and shoppable decor links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
